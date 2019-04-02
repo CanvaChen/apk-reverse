@@ -6,7 +6,8 @@
 * jd-gui v1.4.1
 
 ## Platforms
-* Linux
+* Linux (bash + oracle jvm + python)
+* Windows (git bash + oracle jvm + python)
 
 ## Usage
 
