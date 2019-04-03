@@ -16,4 +16,4 @@
 bash apk-reverse.sh *.apk
 
 ```
-
+Sava source files with menu "File > Save All Sources"
