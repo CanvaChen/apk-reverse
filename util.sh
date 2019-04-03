@@ -34,7 +34,3 @@ function initDir() {
   # 删除旧目录
   rm -rf $foldername
 }
-
-function isEmptyDir() {
-    return `ls -A $1|wc -w`
-}
