@@ -20,7 +20,7 @@ echo "Decompile dex files ..."
 cd ../tools/enjarify-1.0.3
 echo `pwd`
 jarname=${foldername}".jar"
-sh enjarify.sh -f $absolutename -o ${absolutefolder}"/"${jarname}
+bash enjarify.sh -f $absolutename -o ${absolutefolder}"/"${jarname}
 cd $absolutefolder
 echo `pwd`
 if [ ! -f "$jarname" ]; then
