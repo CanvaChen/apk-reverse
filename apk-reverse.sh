@@ -32,4 +32,4 @@ echo ${absolutefolder}"/"${jarname}
 
 # 执行jd-gui
 echo "View the decompiled files ..."
-java -jar ../../tools/jd-gui-1.4.1.jar $jarname
+java -jar ../../tools/jd-gui-1.6.1.jar $jarname
